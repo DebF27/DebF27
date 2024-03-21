@@ -8,3 +8,7 @@ Actualmente ya no me puedo considerar otaku, sin embargo tengo otras aficiones i
 * CSS
 * HTML
 * CSS
+## skills
+- couching
+- reading
+- painting
